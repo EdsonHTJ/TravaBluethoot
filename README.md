@@ -6,8 +6,8 @@ Consiste em uma comunicação basica entre um modulo bluethoot HC-05 e um arduin
 Segue no Repositorio o projeto no platformIO juntamete com o esquematico da mesma
 
 
-<img src="Schematic.png" width="400">
+<center><img src="Schematic.png" width="800"><center/>
 
 
-<img src="ImagemPlaca.png" width="400">
+<center><img src="ImagemPlaca.png" width="800"><center/>
 
